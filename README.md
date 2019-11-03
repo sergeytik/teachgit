@@ -1,1 +1,3 @@
-# teachgitgit pull https://github.com/sergeytik/teachgit.git
+# teachgit
+
+git pull https://github.com/sergeytik/teachgit.git
