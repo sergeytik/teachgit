@@ -16,4 +16,7 @@ git init
 git remote add origin https://github.com/sergeytik/teachgit.git
 git pull origin master
 
+#3 после того как сделаны изменения, коммитим все сразу без add и отправляем на депозитарий
 
+git commit -a -m "comment"
+git pull -u origin master
